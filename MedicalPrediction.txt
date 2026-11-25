@@ -1,0 +1,4 @@
+MedicalPrediction/
+    MedicalPrediction/
+        settings.py
+        
